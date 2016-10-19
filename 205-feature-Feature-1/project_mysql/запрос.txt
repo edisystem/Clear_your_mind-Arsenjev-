@@ -1,0 +1,2 @@
+INSERT INTO `vopr` (`id`, `vopr`, `o1`, `o2`, `o3`, `o4`, `tip`, `otv`)
+VALUES ('1', 'we', 'serf', 'sdf', 'dsf', 'aswef', '1', '1');
